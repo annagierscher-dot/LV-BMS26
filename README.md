@@ -1,2 +1,1 @@
-# LV-BMS26
-Software für LV BMS
+# LV_BMS_PWx3.24
