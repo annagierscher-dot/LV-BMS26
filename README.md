@@ -1,1 +1,1 @@
-# LV_BMS_PWx3.24
+# LV_BMS_PWx26
